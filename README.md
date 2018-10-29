@@ -64,3 +64,8 @@ cargo add
 cargo rm
 cargo upgrade
 ```
+
+## 其他：国内加速、docker 
+
+SEE https://github.com/Brooooooklyn/sourcemap-decoder/blob/master/README.md
+
